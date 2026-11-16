@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+node_modules/
+
+# runtime artefacts
+imgs/
+composed/
+urls.json
+cookies.json
+*.png
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "作文批改平台"
+  short_description: "在作文批改平台按题目要求写稿、反复评测提分并提交作业"
+  default_prompt: "用 $zuowenpigai-essay 按题目要求完成这篇作文，并帮我评测到目标分数。"
